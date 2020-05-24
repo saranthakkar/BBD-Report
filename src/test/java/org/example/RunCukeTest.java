@@ -16,4 +16,7 @@ plugin = {"html:target/cucumber-html-report",                   //HTML report
 )//feature bracket ends here
 public class RunCukeTest {
 }
-//saran
+//Saran
+//Assertion added as resq
+
+
