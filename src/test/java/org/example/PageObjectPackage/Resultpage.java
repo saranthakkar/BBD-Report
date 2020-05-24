@@ -14,3 +14,4 @@ public class Resultpage extends DriverFactory {
     }
     //clear
 }
+//pull practice
