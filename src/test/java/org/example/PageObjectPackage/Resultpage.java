@@ -12,4 +12,5 @@ public class Resultpage extends DriverFactory {
 
         runningButton.click();
     }
+    //clear
 }
