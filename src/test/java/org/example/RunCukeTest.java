@@ -5,7 +5,7 @@ import cucumber.api.junit.Cucumber;
 import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = "src/test/Resource/Homepage.feature", tags = {"@smoke"},
+@CucumberOptions(features = "src/test/Resource/Homepage.feature",
 plugin = {"html:target/cucumber-html-report",                   //HTML report
             "json:target/cucumber-json-report.json",            //JSON report
             "junit:target/cucumber-xml-report.xml",              //XML report
@@ -19,4 +19,4 @@ public class RunCukeTest {
 //Saran
 //Assertion added as resq
 
-
+// build trigger job
